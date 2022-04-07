@@ -20105,6 +20105,6 @@ const CheatSheet = [
             }
         ]
     }
-]
+];
 
-export default CheatSheet;
+exports.CheatSheet = CheatSheet;
